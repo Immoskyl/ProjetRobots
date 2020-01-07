@@ -513,19 +513,19 @@ to goRedBase
   ]
 end
 
-;; procedure pour initialiser les explorers verts
+;; procedure pour initialiser les explorers rouges
 to initRedExplorer
 end
 
-;; procedure pour initialiser les rocket-launchers verts
+;; procedure pour initialiser les rocket-launchers rouges
 to initRedRocketLauncher
 end
 
-;; procedure pour initialiser les harvesters verts
+;; procedure pour initialiser les harvesters rouges
 to initRedHarvester
 end
 
-;; procedure pour initialiser les bases verts
+;; procedure pour initialiser les bases rouges
 to initRedBase
   set mem5 0
   ; crée des explorers, des harvesters et des rocket-launchers
